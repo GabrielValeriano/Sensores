@@ -1,0 +1,15 @@
+sqlite3: librería estándar de Python 
+para trabajar con bases de datos SQLite.
+
+Flask: framework web en Python que sirve para crear APIs y aplicaciones web.
+
+g: objeto global de Flask que sirve para guardar datos mientras dura la petición (request context).
+
+jsonify: convierte datos de Python en JSON (para respuestas API).
+
+request: permite acceder a los datos que llegan con la petición 
+(por ejemplo JSON, formularios, headers, etc.).
+
+url_for: genera URLs dinámicas dentro de Flask.
+
+ceil: función matemática que redondea un número hacia arriba (aunque acá no la usás todavía).
